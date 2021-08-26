@@ -3,7 +3,7 @@
 
 Industrial Machinery Renting Application can be classified as a is a minimum viable product (MVP) for machinery’s owners to showcase and rent their machinery to other companies with minimum price fluctuation. It is also a b2b platform that solves the high maintenance and repair fees problem mentioned and converts traditional procedure for renting industrial machinery to the cloud through the use of mobile technologies which simply means creating products and services geared toward other businesses.
 
-**rentalapp_POS** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the user of **Administrator** and **Merchant Or Rental Companies** and **Workflow of Management** instantly 
+**rentalapp_POS** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the users of **Administrator** and **Merchant Or Rental Companies** and **Workflow of Management** instantly 
 
 ###### Build With
 Here are three major frameworks that used to build this project.
@@ -43,6 +43,8 @@ This project is a starting point for a Flutter application that focus on Android
 
 ### Usage
 ![rentalapp_POS UI](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Frentaapp_POS.png?alt=media&token=6fa3d8e7-0203-41a0-8e12-3e074ebf868b)
+###### Pre-condition
+The users must be **added** to the backend to access and use this application
 ###### Features
 - List of **admin** features
   1. Manage users
