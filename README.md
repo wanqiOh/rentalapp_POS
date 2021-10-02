@@ -5,7 +5,7 @@ Industrial Machinery Renting Application can be classified as a is a minimum via
 
 **rentalapp_POS** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the users of **Administrator** and **Merchant Or Rental Companies** and **Workflow of Management** instantly
 
-If you want to know more details about **Industrial Machinery Renting Application** can be refer from [Youtube](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
+If you want to know more details about **Industrial Machinery Renting Application** can be refer from [Demo Video from Youtube](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
 
 ###### Build With
 Here are three major frameworks that used to build this project.
