@@ -61,4 +61,3 @@ The users must be **added** to the backend to access and use this application
   4. Trackback history order
 
 ![rentalapp_POS](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/email%2FbottomImage.PNG?alt=media&token=f766e653-0fd4-4e6d-980f-4aeaaae75024)
->>>>>>> 50c4f5e409b7cbb6965e04f78ce8c3417e9fd96a
