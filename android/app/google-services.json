@@ -1,0 +1,153 @@
+{
+  "project_info": {
+    "project_number": "53107802129",
+    "firebase_url": "https://rentalapp-fa5bd-default-rtdb.firebaseio.com",
+    "project_id": "rentalapp-fa5bd",
+    "storage_bucket": "rentalapp-fa5bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53107802129:android:5e85bfee9d6316e5c6b1b0",
+        "android_client_info": {
+          "package_name": "com.example.rentalapp_pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53107802129-1a22j0qn0f7qbm2amj25geij8kmus2u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentalapp_pos",
+            "certificate_hash": "dd7bc7b255782665db48b4530913ee6a420b3d1c"
+          }
+        },
+        {
+          "client_id": "53107802129-6f5c9ra8bfu1vuk6h62isch26kfob678.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentalapp_pos",
+            "certificate_hash": "7d7d4dd770a64d6a3084cee8c5be8fa3f4f10184"
+          }
+        },
+        {
+          "client_id": "53107802129-6hcjcea07n4n6a7pasto4lrsma8p3b1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentalapp_pos",
+            "certificate_hash": "a0ae74c02a40255e621a3b0ee9017a6940bad508"
+          }
+        },
+        {
+          "client_id": "53107802129-ghgoehpk8vqjo7q65afo1u09u8c14la2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentalapp_pos",
+            "certificate_hash": "b538f1bed31ff519bcc75bc2a8687c943cc00135"
+          }
+        },
+        {
+          "client_id": "53107802129-0cghb9a31eqdkf19iq49io0j9mrdeu7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMPY18fnOXXms87qEH1LXN_vP-N6jKv0"
+        },
+        {
+          "current_key": "AIzaSyCgw2GszVmgO1yzMJoOHDSeXXBOYoxQ2Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53107802129-0cghb9a31eqdkf19iq49io0j9mrdeu7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53107802129-cqn1nccgt1e8ji9m0jp2dcv9u8lt701k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pinanclezenith.rentalapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53107802129:android:58321c9b7c413780c6b1b0",
+        "android_client_info": {
+          "package_name": "com.pinanclezenith.rentalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53107802129-3aec3o1sujb3e1g5tk5ekaabq1m49mci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinanclezenith.rentalapp",
+            "certificate_hash": "b538f1bed31ff519bcc75bc2a8687c943cc00135"
+          }
+        },
+        {
+          "client_id": "53107802129-4c46kvbj1up5vfljcc94air4gq7vov4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinanclezenith.rentalapp",
+            "certificate_hash": "dd7bc7b255782665db48b4530913ee6a420b3d1c"
+          }
+        },
+        {
+          "client_id": "53107802129-rnje3tulhrirpjnetahiahsee7ilugd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinanclezenith.rentalapp",
+            "certificate_hash": "a0ae74c02a40255e621a3b0ee9017a6940bad508"
+          }
+        },
+        {
+          "client_id": "53107802129-sao6nkcdj9u27urak5qardf5mc64vq6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinanclezenith.rentalapp",
+            "certificate_hash": "7d7d4dd770a64d6a3084cee8c5be8fa3f4f10184"
+          }
+        },
+        {
+          "client_id": "53107802129-0cghb9a31eqdkf19iq49io0j9mrdeu7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUMPY18fnOXXms87qEH1LXN_vP-N6jKv0"
+        },
+        {
+          "current_key": "AIzaSyCgw2GszVmgO1yzMJoOHDSeXXBOYoxQ2Kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53107802129-0cghb9a31eqdkf19iq49io0j9mrdeu7j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "53107802129-cqn1nccgt1e8ji9m0jp2dcv9u8lt701k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pinanclezenith.rentalapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

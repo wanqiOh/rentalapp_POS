@@ -1,0 +1,23 @@
+const String imageDirectoryPath = 'images/';
+
+const String bgSplash = imageDirectoryPath + 'splash_img.png';
+const String icFBLogo = imageDirectoryPath + 'FB_logo.png';
+const String icGoogleLogo = imageDirectoryPath + 'google_logo.png';
+const String icCircleGoogle = imageDirectoryPath + 'circle_google.png';
+const String icCircleFB = imageDirectoryPath + 'circle_fb.png';
+const String bgGPS = imageDirectoryPath + 'gps_img.png';
+const String icLogo = imageDirectoryPath + 'logo.png';
+const String icCategoryLift1 = imageDirectoryPath + 'scissor_lift.png';
+const String icCategoryLift2 = imageDirectoryPath + 'aerial_lift.png';
+const String icCategoryLift3 = imageDirectoryPath + 'spider_lift.png';
+const String icCategoryLift4 = imageDirectoryPath + 'crawler_crane.png';
+const String icCategoryLift5 = imageDirectoryPath + 'boom_lift.png';
+const String icCategoryLift6 = imageDirectoryPath + 'fork_lift.png';
+const String icCategoryLift7 = imageDirectoryPath + 'tower_lift.png';
+const String icCategoryLift8 = imageDirectoryPath + 'beach_lift.png';
+const String ic30TSpriderLift = imageDirectoryPath + '30T.png';
+const String ic21GTSpriderLift = imageDirectoryPath + '21GT.png';
+const String icX17JSpriderLift = imageDirectoryPath + 'X17J.png';
+const String icChip = imageDirectoryPath + 'chip.png';
+const String icMasterIcon = imageDirectoryPath + 'master_icon.png';
+const String icVisaIcon = imageDirectoryPath + 'visa_icon.png';
